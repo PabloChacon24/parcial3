@@ -182,3 +182,5 @@ if(isset($_POST['submit'])){
       <?php } ?>
    </body>
 </html>
+
+ya hice la modificacion
